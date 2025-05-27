@@ -2,7 +2,8 @@ group 'com.sidlatau.flutterdocumentpicker'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '1.6.21'
+    //ext.kotlin_version = '1.6.21'
+    ext.kotlin_version = '1.8'
     repositories {
         google()
         mavenCentral()
